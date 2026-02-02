@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Doors of Stone - A Fan-Fiction Outline</title>
+    <style>
+        :root {
+            --primary: #8b4513;
+            --secondary: #2c1810;
+            --accent: #d4af37;
+            --bg: #1a1a1a;
+            --text: #e8e8e8;
+            --muted: #888;
+        }
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Georgia', 'Times New Roman', serif;
+            background-color: var(--bg);
+            color: var(--text);
+            line-height: 1.8;
+        }
+        .hero {
+            background: linear-gradient(135deg, var(--secondary) 0%, var(--bg) 100%);
+            padding: 80px 20px;
+            text-align: center;
+            border-bottom: 2px solid var(--accent);
+        }
+        .hero h1 {
+            font-size: 3em;
+            color: var(--accent);
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+            margin-bottom: 10px;
+        }
+        .hero .subtitle {
+            font-style: italic;
+            color: var(--muted);
+            font-size: 1.2em;
+            margin-bottom: 30px;
+        }
+        .hero .quote {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+            font-style: italic;
+            border-left: 3px solid var(--accent);
+            background: rgba(0,0,0,0.3);
+        }
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+        .nav {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin: 40px 0;
+        }
+        .nav a {
+            display: block;
+            padding: 20px;
+            background: var(--secondary);
+            color: var(--text);
+            text-decoration: none;
+            border-radius: 8px;
+            text-align: center;
+            transition: all 0.3s ease;
+            border: 1px solid transparent;
+        }
+        .nav a:hover {
+            border-color: var(--accent);
+            transform: translateY(-2px);
+        }
+        .nav a .icon {
+            font-size: 2em;
+            display: block;
+            margin-bottom: 10px;
+        }
+        section {
+            margin-bottom: 50px;
+        }
+        h2 {
+            color: var(--accent);
+            font-size: 1.8em;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid var(--primary);
+        }
+        h3 {
+            color: var(--accent);
+            margin: 20px 0 10px;
+        }
+        p {
+            margin-bottom: 15px;
+        }
+        .highlight {
+            background: var(--secondary);
+            padding: 25px;
+            border-radius: 8px;
+            border-left: 4px solid var(--accent);
+            margin: 20px 0;
+        }
+        .highlight p {
+            margin: 0;
+            font-style: italic;
+            font-size: 1.1em;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        th, td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid var(--primary);
+        }
+        th {
+            background: var(--secondary);
+            color: var(--accent);
+        }
+        .warning {
+            background: rgba(139, 69, 19, 0.2);
+            padding: 20px;
+            border-radius: 8px;
+            margin: 20px 0;
+        }
+        .warning strong {
+            color: var(--accent);
+        }
+        ul {
+            padding-left: 20px;
+            margin: 15px 0;
+        }
+        li {
+            margin: 8px 0;
+        }
+        .footer {
+            text-align: center;
+            padding: 40px 20px;
+            background: var(--secondary);
+            color: var(--muted);
+            margin-top: 60px;
+        }
+        .chapter-preview {
+            background: var(--secondary);
+            padding: 30px;
+            border-radius: 8px;
+            margin: 20px 0;
+        }
+        .chapter-preview p {
+            font-style: italic;
+        }
+        a {
+            color: var(--accent);
+        }
+        code {
+            background: var(--secondary);
+            padding: 2px 6px;
+            border-radius: 3px;
+            font-family: monospace;
+        }
+    </style>
+</head>
+<body>
+    <div class="hero">
+        <h1>🗝️ The Doors of Stone</h1>
+        <p class="subtitle">A Fan-Fiction Outline for Book 3 of Patrick Rothfuss's Kingkiller Chronicle</p>
+        <div class="quote">
+            "There are three things all wise men fear: the sea in storm, a night with no moon, and the anger of a gentle man."
+        </div>
+    </div>
+
+    <div class="container">
+        <nav class="nav">
+            <a href="./outline/01-one-sentence-summary.md">
+                <span class="icon">📝</span>
+                One-Sentence Summary
+            </a>
+            <a href="./outline/06-four-page-synopsis.md">
+                <span class="icon">📖</span>
+                Full Synopsis
+            </a>
+            <a href="./characters/kvothe.md">
+                <span class="icon">👤</span>
+                Characters
+            </a>
+            <a href="./chapters/chapter-01.md">
+                <span class="icon">✍️</span>
+                Chapter One
+            </a>
+            <a href="./unresolved-threads.md">
+                <span class="icon">🔮</span>
+                Mysteries Resolved
+            </a>
+            <a href="./outline/08-scene-list.md">
+                <span class="icon">📋</span>
+                Scene List
+            </a>
+        </nav>
+
+        <section>
+            <h2>📖 About This Project</h2>
+            <p>This is a <strong>fan-fiction outline</strong> for the long-awaited third book of Patrick Rothfuss's <em>Kingkiller Chronicle</em> series. Using Randy Ingermanson's <strong>Snowflake Method</strong> for novel design, this project constructs a complete story framework.</p>
+            
+            <div class="warning">
+                <strong>⚠️ Important Disclaimers</strong>
+                <ul>
+                    <li>This is <strong>fan fiction</strong>—a creative exercise, not a prediction or leak</li>
+                    <li>All characters and world elements belong to <strong>Patrick Rothfuss</strong></li>
+                    <li>This project is created out of love for the source material</li>
+                </ul>
+            </div>
+        </section>
+
+        <section>
+            <h2>🌟 The Core Story</h2>
+            <div class="highlight">
+                <p>A legendary arcanist's obsessive hunt for the demons who murdered his family leads him to open a forbidden door, killing a king and unleashing a catastrophe that destroys everything he loves—including himself.</p>
+            </div>
+            <p>This outline follows Kvothe through the final chapter of his journey: the return to the University, the devastating revelation about Denna's patron, the discovery of his Lackless heritage, and the catastrophic opening of the Doors of Stone that earns him the name "Kingkiller" and breaks his world.</p>
+        </section>
+
+        <section>
+            <h2>❓ Major Mysteries Resolved</h2>
+            <table>
+                <tr>
+                    <th>Mystery</th>
+                    <th>Resolution</th>
+                </tr>
+                <tr>
+                    <td><strong>Denna's Patron</strong></td>
+                    <td>Cinder (the Chandrian)—using her to spread propaganda through magical music</td>
+                </tr>
+                <tr>
+                    <td><strong>Who Kvothe Killed</strong></td>
+                    <td>King Roderic Calanthis—manipulated by the Chandrian</td>
+                </tr>
+                <tr>
+                    <td><strong>What's Behind the Door</strong></td>
+                    <td>The prison of power from the Creation War; its opening causes the current catastrophe</td>
+                </tr>
+                <tr>
+                    <td><strong>The Amyr's Role</strong></td>
+                    <td>Hidden antagonists who see Kvothe as a threat to be contained</td>
+                </tr>
+                <tr>
+                    <td><strong>Why Kvothe Lost His Power</strong></td>
+                    <td>He locked away his own true name to stop himself from causing more harm</td>
+                </tr>
+                <tr>
+                    <td><strong>The Thrice-Locked Chest</strong></td>
+                    <td>Contains his true name, his sword Caesura, and the key to the Doors</td>
+                </tr>
+            </table>
+        </section>
+
+        <section>
+            <h2>✍️ Chapter One Preview</h2>
+            <div class="chapter-preview">
+                <p>"It was the third day, and the silence had changed.</p>
+                <p>The Waystone Inn lay quiet as a patient dying, its common room holding the dim light of late morning like a cupped hand holds water—carelessly, letting it slip through the cracks..."</p>
+                <p style="text-align: right; margin-top: 20px;">
+                    <a href="./chapters/chapter-01.md">Read Full Chapter →</a>
+                </p>
+            </div>
+        </section>
+
+        <section>
+            <h2>❄️ The Snowflake Method</h2>
+            <p>This project follows Randy Ingermanson's Snowflake Method through its ten steps:</p>
+            <ul>
+                <li>✅ <strong>One-sentence summary</strong> — The hook</li>
+                <li>✅ <strong>One-paragraph summary</strong> — Setup, three disasters, ending</li>
+                <li>✅ <strong>Character summaries</strong> — Motivation, goal, conflict, epiphany</li>
+                <li>✅ <strong>One-page synopsis</strong> — Expanded plot</li>
+                <li>✅ <strong>Character synopses</strong> — Story from each POV</li>
+                <li>✅ <strong>Four-page synopsis</strong> — Detailed plot breakdown</li>
+                <li>✅ <strong>Character charts</strong> — Complete profiles</li>
+                <li>✅ <strong>Scene list</strong> — Every scene mapped (~97 scenes)</li>
+                <li>✅ <strong>Chapter 1</strong> — Sample chapter in Rothfuss's style</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>🎭 Themes Preserved</h2>
+            <ul>
+                <li><strong>Tragedy over triumph</strong> — Kvothe's brilliance is his undoing</li>
+                <li><strong>The cost of obsession</strong> — His need for vengeance destroys what he loves</li>
+                <li><strong>Stories within stories</strong> — The frame narrative completes the arc</li>
+                <li><strong>Names and naming</strong> — Identity as power, silence as choice</li>
+                <li><strong>Ambiguity</strong> — The ending offers choice, not resolution</li>
+            </ul>
+        </section>
+    </div>
+
+    <div class="footer">
+        <p><em>"You may have heard of me."</em></p>
+        <p style="margin-top: 20px;">Created with respect and admiration for Patrick Rothfuss's work</p>
+        <p>All rights to characters, world, and original material belong to Patrick Rothfuss.</p>
+        <p style="margin-top: 20px;">
+            <a href="https://github.com/belindamo/kingkiller-book3">View on GitHub</a>
+        </p>
+    </div>
+</body>
+</html>
