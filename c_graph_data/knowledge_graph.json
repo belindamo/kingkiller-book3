@@ -1,0 +1,79 @@
+{
+  "nodes": [
+    {"id": "1sentence", "type": "OneSentenceSynopsis", "name": "One Sentence Summary", "content": "A legendary arcanist's obsessive hunt for the demons who murdered his family leads him to open a forbidden door, killing a king and unleashing a catastrophe."},
+    {"id": "1para", "type": "OneParagraphSynopsis", "name": "One Paragraph Summary", "content": "Five-paragraph synopsis covering setup, three disasters, and resolution."},
+    {"id": "4page", "type": "FourPageSynopsis", "name": "Four Page Synopsis", "content": "Complete plot breakdown across five parts."},
+    
+    {"id": "char_kvothe", "type": "CharacterProfile", "name": "Kvothe", "content": "Protagonist. Brilliant arcanist whose obsession leads to tragedy."},
+    {"id": "char_denna", "type": "CharacterProfile", "name": "Denna", "content": "Love interest. Fiercely independent woman whose patron is Cinder."},
+    {"id": "char_bast", "type": "CharacterProfile", "name": "Bast", "content": "Fae prince. Kvothe's student and keeper at the Waystone Inn."},
+    {"id": "char_chronicler", "type": "CharacterProfile", "name": "Chronicler", "content": "Scribe recording Kvothe's true story."},
+    {"id": "char_cinder", "type": "CharacterProfile", "name": "Cinder", "content": "Chandrian. Denna's patron. Kvothe's personal enemy."},
+    {"id": "char_elodin", "type": "CharacterProfile", "name": "Elodin", "content": "Master Namer. Sees his younger self in Kvothe."},
+    
+    {"id": "scene_01", "type": "Scene", "name": "The Third Day", "part": "Prologue", "disaster": 0},
+    {"id": "scene_02", "type": "Scene", "name": "Return to University", "part": "Part 1", "disaster": 0},
+    {"id": "scene_11", "type": "Scene", "name": "The Amyr Revealed", "part": "Part 1", "disaster": 1},
+    {"id": "scene_36", "type": "Scene", "name": "The Confrontation With Denna", "part": "Part 2", "disaster": 2},
+    {"id": "scene_55", "type": "Scene", "name": "The Lackless Key", "part": "Part 3", "disaster": 0},
+    {"id": "scene_70", "type": "Scene", "name": "The Door Opens", "part": "Part 4", "disaster": 3},
+    {"id": "scene_91", "type": "Scene", "name": "The Kingkiller", "part": "Part 4", "disaster": 3},
+    {"id": "scene_106", "type": "Scene", "name": "The Locking", "part": "Part 5", "disaster": 0},
+    {"id": "scene_117", "type": "Scene", "name": "The Final Choice", "part": "Epilogue", "disaster": 0},
+    
+    {"id": "thread_chandrian", "type": "UnresolvedThread", "name": "The Chandrian", "status": "resolved"},
+    {"id": "thread_patron", "type": "UnresolvedThread", "name": "Denna's Patron", "status": "resolved"},
+    {"id": "thread_king", "type": "UnresolvedThread", "name": "The Kingkiller", "status": "resolved"},
+    {"id": "thread_amyr", "type": "UnresolvedThread", "name": "The Amyr", "status": "resolved"},
+    {"id": "thread_doors", "type": "UnresolvedThread", "name": "The Doors of Stone", "status": "resolved"},
+    {"id": "thread_chest", "type": "UnresolvedThread", "name": "The Thrice-Locked Chest", "status": "resolved"},
+    {"id": "thread_cthaeh", "type": "UnresolvedThread", "name": "The Cthaeh's Prophecies", "status": "resolved"}
+  ],
+  "edges": [
+    {"source": "1sentence", "target": "1para", "type": "expands_to"},
+    {"source": "1para", "target": "4page", "type": "expands_to"},
+    
+    {"source": "4page", "target": "scene_01", "type": "contains"},
+    {"source": "4page", "target": "scene_02", "type": "contains"},
+    {"source": "4page", "target": "scene_11", "type": "contains"},
+    {"source": "4page", "target": "scene_36", "type": "contains"},
+    {"source": "4page", "target": "scene_55", "type": "contains"},
+    {"source": "4page", "target": "scene_70", "type": "contains"},
+    {"source": "4page", "target": "scene_91", "type": "contains"},
+    {"source": "4page", "target": "scene_106", "type": "contains"},
+    {"source": "4page", "target": "scene_117", "type": "contains"},
+    
+    {"source": "scene_01", "target": "scene_02", "type": "leads_to"},
+    {"source": "scene_02", "target": "scene_11", "type": "leads_to"},
+    {"source": "scene_11", "target": "scene_36", "type": "leads_to"},
+    {"source": "scene_36", "target": "scene_55", "type": "leads_to"},
+    {"source": "scene_55", "target": "scene_70", "type": "leads_to"},
+    {"source": "scene_70", "target": "scene_91", "type": "leads_to"},
+    {"source": "scene_91", "target": "scene_106", "type": "leads_to"},
+    {"source": "scene_106", "target": "scene_117", "type": "leads_to"},
+    
+    {"source": "char_kvothe", "target": "scene_01", "type": "appears_in"},
+    {"source": "char_kvothe", "target": "scene_02", "type": "appears_in"},
+    {"source": "char_kvothe", "target": "scene_11", "type": "appears_in"},
+    {"source": "char_kvothe", "target": "scene_36", "type": "appears_in"},
+    {"source": "char_kvothe", "target": "scene_70", "type": "appears_in"},
+    {"source": "char_kvothe", "target": "scene_91", "type": "appears_in"},
+    {"source": "char_kvothe", "target": "scene_106", "type": "appears_in"},
+    
+    {"source": "char_denna", "target": "scene_36", "type": "appears_in"},
+    {"source": "char_denna", "target": "scene_70", "type": "appears_in"},
+    
+    {"source": "char_bast", "target": "scene_01", "type": "appears_in"},
+    {"source": "char_bast", "target": "scene_117", "type": "appears_in"},
+    
+    {"source": "char_cinder", "target": "scene_36", "type": "referenced_in"},
+    {"source": "char_cinder", "target": "scene_70", "type": "appears_in"},
+    
+    {"source": "thread_patron", "target": "scene_36", "type": "resolved_in"},
+    {"source": "thread_amyr", "target": "scene_11", "type": "resolved_in"},
+    {"source": "thread_doors", "target": "scene_70", "type": "resolved_in"},
+    {"source": "thread_king", "target": "scene_91", "type": "resolved_in"},
+    {"source": "thread_chest", "target": "scene_106", "type": "resolved_in"},
+    {"source": "thread_cthaeh", "target": "scene_91", "type": "resolved_in"}
+  ]
+}

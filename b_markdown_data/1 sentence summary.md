@@ -1,0 +1,1 @@
+A legendary arcanist's obsessive hunt for the demons who murdered his family leads him to open a forbidden door, killing a king and unleashing a catastrophe that destroys everything he loves—including himself.

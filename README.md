@@ -1,4 +1,5 @@
 # 🗝️ The Doors of Stone
+
 ### A Fan-Fiction Outline for Book 3 of Patrick Rothfuss's Kingkiller Chronicle
 
 ---
@@ -9,7 +10,7 @@
 
 **A comprehensive creative exercise using the Snowflake Method**
 
-[Outline](./outline/) • [Characters](./characters/) • [Chapter 1](./chapters/chapter-01.md) • [Unresolved Threads](./unresolved-threads.md)
+🌐 **[View Live Site](https://belindamo.github.io/kingkiller-book3/)** 🌐
 
 </div>
 
@@ -22,14 +23,11 @@ This is a **fan-fiction outline** for the long-awaited third book of Patrick Rot
 - Addresses all major **unresolved plot threads** from *The Name of the Wind* and *The Wise Man's Fear*
 - Maintains Rothfuss's established themes of tragedy, hubris, and the danger of obsession
 - Provides a satisfying conclusion to Kvothe's story while preserving the series' ambiguity
-- Demonstrates rigorous application of the Snowflake Method for novel planning
+- Includes an **interactive knowledge graph** visualizing story connections
 
-### ⚠️ Important Disclaimers
+### ⚠️ Disclaimer
 
-- This is **fan fiction**—a creative exercise, not a prediction or leak
-- All characters and world elements belong to **Patrick Rothfuss**
-- This project is created out of love for the source material
-- The actual *Doors of Stone* will likely differ completely
+This is **fan fiction**—a creative exercise, not a prediction or leak. All characters and world elements belong to **Patrick Rothfuss**.
 
 ---
 
@@ -38,17 +36,34 @@ This is a **fan-fiction outline** for the long-awaited third book of Patrick Rot
 > **One-Sentence Summary:**  
 > A legendary arcanist's obsessive hunt for the demons who murdered his family leads him to open a forbidden door, killing a king and unleashing a catastrophe that destroys everything he loves—including himself.
 
-This outline follows Kvothe through the final chapter of his journey: the return to the University, the devastating revelation about Denna's patron, the discovery of his Lackless heritage, and the catastrophic opening of the Doors of Stone that earns him the name "Kingkiller" and breaks his world.
-
 ---
 
 ## 📂 Project Structure
 
 ```
 kingkiller-book3/
-├── README.md                    # This file
-├── unresolved-threads.md        # All mysteries and how they're resolved
-├── outline/
+├── index.html                    # Interactive web interface with knowledge graph
+├── README.md
+├── unresolved-threads.md         # All mysteries + resolutions
+│
+├── b_markdown_data/              # Clean, structured content
+│   ├── 1 sentence summary.md
+│   ├── 1 paragraph summary.md
+│   ├── character_profiles/
+│   │   ├── Kvothe.md
+│   │   └── Denna.md
+│   └── scenes/
+│       ├── 01_The_Third_Day.md
+│       ├── 11_The_Amyr_Revealed.md
+│       ├── 36_The_Confrontation_With_Denna.md
+│       ├── 70_The_Door_Opens.md
+│       ├── 91_The_Kingkiller.md
+│       └── 106_The_Locking.md
+│
+├── c_graph_data/
+│   └── knowledge_graph.json      # D3.js visualization data
+│
+├── outline/                      # Snowflake Method documents
 │   ├── 01-one-sentence-summary.md
 │   ├── 02-one-paragraph-summary.md
 │   ├── 03-character-summaries.md
@@ -57,11 +72,13 @@ kingkiller-book3/
 │   ├── 06-four-page-synopsis.md
 │   ├── 07-character-charts.md
 │   └── 08-scene-list.md
-├── characters/
+│
+├── characters/                   # Legacy character profiles
 │   ├── kvothe.md
 │   └── denna.md
+│
 └── chapters/
-    └── chapter-01.md            # Complete first chapter
+    └── chapter-01.md             # Complete first chapter (~3,000 words)
 ```
 
 ---
@@ -76,9 +93,6 @@ kingkiller-book3/
 | **The Amyr's Role** | Hidden antagonists who see Kvothe as a threat to be contained |
 | **Why Kvothe Lost His Power** | He locked away his own true name to stop himself from causing more harm |
 | **The Thrice-Locked Chest** | Contains his true name, his sword Caesura, and the key to the Doors |
-| **The Frame Story's Conclusion** | Ambiguous—Kvothe must choose whether to become himself again |
-
-See [unresolved-threads.md](./unresolved-threads.md) for comprehensive analysis.
 
 ---
 
@@ -92,22 +106,21 @@ This project follows Randy Ingermanson's [Snowflake Method](https://www.advanced
 4. ✅ **One-page synopsis** — Expanded plot
 5. ✅ **Character synopses** — Story from each POV
 6. ✅ **Four-page synopsis** — Detailed plot breakdown
-7. ✅ **Character charts** — Complete profiles
-8. ✅ **Scene list** — Every scene mapped
-9. ⏭️ *Narrative descriptions* — (Optional step, not completed)
-10. ✅ **Chapter 1** — Sample chapter in Rothfuss's style
+7. ✅ **Character charts** — Complete profiles (Enneagram, MBTI, etc.)
+8. ✅ **Scene list** — 97 scenes, ~590 pages mapped
+9. ✅ **Chapter 1** — Sample chapter in Rothfuss's lyrical prose style
 
 ---
 
-## ✍️ Chapter 1 Sample
+## 🕸️ Knowledge Graph
 
-The [first chapter](./chapters/chapter-01.md) is written in Rothfuss's lyrical prose style, featuring:
+The project includes an interactive D3.js visualization showing how:
+- Synopsis levels connect and expand
+- Characters appear in scenes
+- Unresolved mysteries get resolved in specific scenes
+- The three disasters drive the plot structure
 
-- The frame narrative at the Waystone Inn
-- Kvothe's return to the University
-- Reunion with Simmon and Wilem
-- A prophetic dream of his mother
-- The beginning of the end
+View it at: **[belindamo.github.io/kingkiller-book3](https://belindamo.github.io/kingkiller-book3/)** → Story Graph tab
 
 ---
 
@@ -117,7 +130,6 @@ The [first chapter](./chapters/chapter-01.md) is written in Rothfuss's lyrical p
 - **The cost of obsession** — His need for vengeance destroys what he loves
 - **Stories within stories** — The frame narrative completes the arc
 - **Names and naming** — Identity as power, silence as choice
-- **The Cthaeh's influence** — Perfect malice working through truth
 - **Ambiguity** — The ending offers choice, not resolution
 
 ---
@@ -126,9 +138,9 @@ The [first chapter](./chapters/chapter-01.md) is written in Rothfuss's lyrical p
 
 1. [Unresolved Threads](./unresolved-threads.md) — Understand what needs resolution
 2. [One-Sentence Summary](./outline/01-one-sentence-summary.md) — The core idea
-3. [One-Paragraph Summary](./outline/02-one-paragraph-summary.md) — The structure
-4. [Four-Page Synopsis](./outline/06-four-page-synopsis.md) — The full plot
-5. [Character Charts](./outline/07-character-charts.md) — Who everyone is
+3. [Four-Page Synopsis](./outline/06-four-page-synopsis.md) — The full plot
+4. [Character Profiles](./b_markdown_data/character_profiles/) — Who everyone is
+5. [Key Scenes](./b_markdown_data/scenes/) — Structured scene breakdowns
 6. [Chapter 1](./chapters/chapter-01.md) — See it in action
 
 ---
@@ -153,6 +165,6 @@ But silences can be broken.
 
 **Created with respect and admiration for Patrick Rothfuss's work**
 
-This is a fan project. All rights to characters, world, and original material belong to Patrick Rothfuss.
+[View Live](https://belindamo.github.io/kingkiller-book3/) • [Unresolved Threads](./unresolved-threads.md) • [Chapter 1](./chapters/chapter-01.md)
 
 </div>
