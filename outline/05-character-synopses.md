@@ -136,3 +136,32 @@ That's more than any of us ever managed.
 
 *Each character synopsis: ~400-700 words*
 *Total: ~1,800 words*
+
+---
+
+## Questions Addressed
+
+This character synopses document (story from each POV) addresses the following mysteries:
+
+| Question ID | Mystery | How Addressed |
+|-------------|---------|---------------|
+| **Q001** | Why is Kvothe now "Kote"? | Kvothe's Story: "I spoke my own name—not to call it, but to lock it... I became Kote. I became silence." |
+| **Q005** | Who is Denna's patron? | Denna's Story: "Master Ash was Cinder. My song was propaganda for monsters." |
+| **Q006** | What's in the thrice-locked chest? | Kvothe: "in a chest I cannot open, the rest of me is waiting" |
+| **Q007** | What is the Chandrian's purpose? | Cinder's Story: "The girl was supposed to be a tool... Her song about Lanre would have spread across the Four Corners, changing the story" |
+| **Q010** | Who/What is the Cthaeh? | Multiple POVs reference being manipulated toward catastrophe |
+| **Q012** | What is Kvothe's true name? | Kvothe: "I spoke my own name" + locked away identity |
+| **Q015** | What is written magic? | Denna: "music could be more than sound—that the right words in the right pattern could *do* things" |
+| **Q016** | What is Bast's true agenda? | Bast's Story: "My Reshi is dying... I've tried everything" + question of whether to restore him |
+| **Q019** | Why do Chandrian fear their names? | Cinder's Story: "We killed his troupe to silence one man's curiosity" |
+| **Q025** | Will Kvothe return? | Bast: "This time, I don't know if I should help him open it—or stop him." |
+| **Q026** | What happened to Denna? | Denna's Story: "Now I wander again... And somewhere, Kvothe is hiding in an inn" |
+
+**POV-Specific Resolutions:**
+- **Kvothe's Story:** Q001, Q006, Q012 (self-destruction arc)
+- **Denna's Story:** Q005, Q015, Q026 (patron revelation, her fate)
+- **Bast's Story:** Q016, Q025 (guardian's dilemma)
+- **Chronicler's Story:** Frame perspective on Q001, Q025
+- **Cinder's Story:** Q007, Q019 (enemy's view of events)
+
+*See `unresolved-threads.md` for full question tracking.*

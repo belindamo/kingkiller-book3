@@ -262,3 +262,63 @@ He takes one single, perfect step.
 ---
 
 *Total: ~2,400 words*
+
+---
+
+## Questions Addressed
+
+This four-page synopsis is the most comprehensive resolution document, addressing nearly all critical and important mysteries:
+
+### Part One: The Return
+| Question ID | Mystery | How Addressed |
+|-------------|---------|---------------|
+| **Q003** | Four-plate door | "the four-plate door in the Archives seems to call to him" |
+| **Q011** | The Amyr | "the Amyr reveal themselves... Lorren is among them" |
+| **Q019** | Why Chandrian fear names | Adem rhyme gives names/signs; Chandrian's erasure campaign explained |
+| **Q031** | Lorren's secret | "Lorren is revealed as a member" of the hidden Amyr |
+
+### Part Two: The Patron  
+| Question ID | Mystery | How Addressed |
+|-------------|---------|---------------|
+| **Q005** | Denna's patron | "The wordplay finally clicks: Ash. Cinder. *Ferule chill and dark of eye.*" |
+| **Q015** | Written magic | "weave yllish knots into her lyrics, creating what amounts to written magic" |
+| **Q018** | Mauthen farm | Connection to Cinder established through investigation |
+
+### Part Three: The Door
+| Question ID | Mystery | How Addressed |
+|-------------|---------|---------------|
+| **Q004** | Doors of Stone | "the location and key to the Doors of Stone" revealed |
+| **Q008** | Kvothe's mother Lackless | "His mother was Netalia Lackless" confirmed |
+| **Q013** | Lackless Box | "The Lackless box... opens to his touch. Blood is the key. Inside: a stone key" |
+| **Q014** | Lackless Rhymes | "decodes the full Lackless rhyme... instructions for opening the Doors" |
+| **Q022** | Moon significance | "night with no moon" timing requirement |
+
+### Part Four: The Opening
+| Question ID | Mystery | How Addressed |
+|-------------|---------|---------------|
+| **Q002** | King killed | "King Roderic Calanthis dies by Kvothe's hand" |
+| **Q009** | War's cause | "The war that follows is inevitable" after door opens |
+| **Q020** | Creation War | "something older, something that was locked away at the end of the Creation War" |
+| **Q021** | Iax/Jax | "Iax—or what remains of him—is free" |
+| **Q024** | Scrael | "Scrael pour through. Worse things stir." |
+| **Q040** | Lanre to Haliax | "Haliax seemed almost pleased" + ancient purposes |
+
+### Part Five: The Silence
+| Question ID | Mystery | How Addressed |
+|-------------|---------|---------------|
+| **Q001** | Why Kvothe is "Kote" | "speaks his own true name—not to call it, but to *lock it*" |
+| **Q006** | Thrice-locked chest | "builds the thrice-locked chest and places inside it the remnants of his former self" |
+| **Q010** | The Cthaeh | "Kvothe understands at last what the Cthaeh accomplished... Every choice he made was calculated" |
+| **Q012** | Kvothe's true name | Explicit: "Kvothe speaks his own true name" |
+| **Q023** | Three days | Three-day structure culminates in final choice |
+| **Q025** | Will Kvothe return? | "We do not see what Kvothe chooses... The chest sits unopened. Or perhaps not." |
+
+### Frame Story Elements
+| Question ID | Mystery | How Addressed |
+|-------------|---------|---------------|
+| **Q016** | Bast's agenda | "Bast's certainty wavers... is that who Bast wants to restore?" |
+| **Q024** | Scrael | "scrael attack... Something has guided them here" |
+
+**Total Questions Addressed:** 25 of 60 (42%) - All critical and most important mysteries
+
+*See `unresolved-threads.md` for full question tracking.*

@@ -139,3 +139,29 @@ To rehabilitate the Chandrian's image through Denna's songs, to eliminate threat
 
 ### Epiphany
 None for Cinder in the traditional sense—he is an antagonist who remains committed to his nature. His "epiphany" is his miscalculation: he underestimated how far Kvothe would go.
+
+---
+
+## Questions Addressed
+
+This character summaries document addresses the following mysteries from our master tracking list:
+
+| Question ID | Mystery | How Addressed in Character |
+|-------------|---------|---------------------------|
+| **Q001** | Why is Kvothe now "Kote"? | Kvothe's arc: "lock it away" + "becomes 'Kote'—a broken echo of himself" |
+| **Q005** | Who is Denna's patron? | Cinder section: Explicitly identifies Master Ash as Cinder |
+| **Q007** | What is the Chandrian's purpose? | Cinder: "Freedom from the curse. Vindication. To end the endless existence" |
+| **Q010** | Who/What is the Cthaeh? | Kvothe's epiphany: "entire quest was manipulated to cause maximum harm" |
+| **Q012** | What is Kvothe's true name? | Kvothe section: References locking away his name |
+| **Q015** | What is written magic? | Denna: "mastering the art of written magic through yllish knots" |
+| **Q016** | What is Bast's true agenda? | Bast: "To preserve wonder. To restore his friend and teacher." |
+| **Q028** | What is Elodin's history? | Elodin: "He sees his younger self in Kvothe and knows how that story ended" |
+
+**Character-Specific Resolutions:**
+- **Kvothe:** Q001, Q012 (name/identity mysteries)
+- **Denna:** Q005, Q015 (patron, magic)
+- **Bast:** Q016 (agenda and motivation)
+- **Cinder:** Q005, Q007 (patron identity, Chandrian purpose)
+- **Elodin:** Q028 (his history mirrors Kvothe's path)
+
+*See `unresolved-threads.md` for full question tracking.*

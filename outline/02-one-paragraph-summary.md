@@ -71,3 +71,29 @@ The paragraph captures:
 | Why can't Kvothe do magic? | He sealed away his own true name |
 | What's the Amyr's role? | Hidden antagonists who see Kvothe as a threat |
 | Does Kvothe redeem himself? | Ambiguous—the choice is presented |
+
+---
+
+## Questions Addressed
+
+This one-paragraph summary addresses the following mysteries from our master tracking list:
+
+| Question ID | Mystery | How Addressed |
+|-------------|---------|---------------|
+| **Q001** | Why is Kvothe now "Kote"? | "Kvothe attempts to speak his own true name to seal away his power... becoming 'Kote'" |
+| **Q002** | Which king did Kvothe kill? | "kills King Roderic Calanthis (manipulated by the Chandrian's schemes)" |
+| **Q004** | What are the Doors of Stone? | "possesses the key to the Doors of Stone; opening them to pursue the Chandrian" |
+| **Q005** | Who is Denna's patron? | "the identity of Denna's patron as Cinder—the very Chandrian who killed his parents" |
+| **Q006** | What's in the thrice-locked chest? | Implied: "becoming 'Kote'—a broken man who retreats" suggests power sealed away |
+| **Q007** | What is the Chandrian's purpose? | "the Chandrian" as target + "manipulated by the Chandrian's schemes" |
+| **Q008** | Is Kvothe's mother Netalia Lackless? | "discovers he is the heir to the family secrets" |
+| **Q009** | What caused the present-day war? | "triggering a war and earning the name Kingkiller" |
+| **Q010** | Who/What is the Cthaeh? | "his entire quest was orchestrated by the Cthaeh to cause maximum catastrophe" |
+| **Q011** | Who/What are the Amyr really? | "the organization still exists, hidden within the University itself, and they consider him the threat" |
+| **Q015** | What is written magic (Yllish)? | "she has been writing magic into her songs" |
+| **Q021** | Who is Iax/Jax? | "inadvertently releases something that was meant to stay imprisoned" |
+| **Q025** | Will Kvothe return? | "Kvothe must decide whether to reclaim himself... or let the world burn" |
+
+**Total Questions Addressed:** 13 (22% of all tracked mysteries)
+
+*See `unresolved-threads.md` for full question tracking.*

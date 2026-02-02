@@ -193,3 +193,72 @@ Each entry includes:
 ---
 
 *Scene count: 97 scenes across ~120 chapters*
+
+---
+
+## Questions Addressed by Scene
+
+This scene list maps every major mystery to specific scenes where it's addressed:
+
+### 🔴 CRITICAL MYSTERIES - Scene Mapping
+
+| Question ID | Mystery | Primary Scenes |
+|-------------|---------|----------------|
+| **Q001** | Why Kvothe is "Kote" | 85-87 (The Locking), 95-97 (Final Choice) |
+| **Q002** | Which king killed | 76-77 (King Roderic dies) |
+| **Q003** | Four-plate door | 9-10 (Investigation), 11-14 (Amyr reveal) |
+| **Q004** | Doors of Stone | 60-61 (Rhyme decoded), 63-72 (Finding/Opening) |
+| **Q005** | Denna's patron | 27-34 (Investigation), 36-41 (Confrontation) |
+| **Q006** | Thrice-locked chest | 90 (Building), 95-97 (Final choice) |
+| **Q007** | Chandrian purpose | 4-5 (Research), 65-68 (Confrontation) |
+| **Q008** | Kvothe's mother Lackless | 21-22 (Discovery), 53-55 (Confirmation) |
+| **Q009** | War's cause | 73-81 (Door opens, king dies, war begins) |
+| **Q010** | The Cthaeh | 82-83 (Realization of manipulation) |
+
+### 🟠 IMPORTANT MYSTERIES - Scene Mapping
+
+| Question ID | Mystery | Primary Scenes |
+|-------------|---------|----------------|
+| **Q011** | The Amyr | 11-14 (Reveal), 56-57 (Pursuit) |
+| **Q012** | Kvothe's true name | 85-86 (Speaking/Locking) |
+| **Q013** | Lackless Box | 54-56 (Opening, finding key) |
+| **Q014** | Lackless Rhymes | 22-23, 60-61 (Decoding) |
+| **Q015** | Written magic | 28-30 (Discovering Denna's braids) |
+| **Q016** | Bast's agenda | 2, 51, 93-95 (Throughout frame) |
+| **Q017** | Auri | 19-20 (Gift scene) |
+| **Q018** | Mauthen farm | 32-33 (Investigation connection) |
+| **Q019** | Chandrian fear names | 4-5, 19 (Research and context) |
+| **Q020** | Creation War | 73 (What emerges from door) |
+| **Q021** | Iax/Jax | 73 (Release) |
+| **Q022** | Moon significance | 60 (Rhyme timing) |
+| **Q023** | Three days | 1-3, 51, 93-97 (Frame structure) |
+| **Q024** | Scrael | 51, 93-95 (Gathering and attack) |
+| **Q025** | Will Kvothe return | 95-97 (Final choice, ambiguous) |
+
+### 🟡 MODERATE MYSTERIES - Scene Mapping
+
+| Question ID | Mystery | Primary Scenes |
+|-------------|---------|----------------|
+| **Q026** | Denna after | 79, 87 (Her realization, aftermath) |
+| **Q027** | Ambrose king? | 77 (Clarifies Roderic, not Ambrose) |
+| **Q028** | Elodin's history | 5, 43-44 (Warnings from experience) |
+| **Q029** | Devi's story | 17, 32-33, 47 (Alliance and limits) |
+| **Q030** | The Singers | 19 (Referenced through Auri) |
+| **Q031** | Lorren's secret | 11-14 (Amyr reveal) |
+| **Q032** | Waystone significance | 88-89 (Choosing location) |
+| **Q033** | Puppet | 10 (Archives guardian scene) |
+| **Q037** | Caesura significance | 77 (King's death), 90 (In chest) |
+| **Q038** | Seven words | 36-40 (Anti-resolution; wrong words) |
+
+### Scene Density Analysis
+
+**Highest Question Density:**
+- Scenes 11-14: 4 questions (Amyr reveal)
+- Scenes 36-41: 3 questions (Denna confrontation)
+- Scenes 73-77: 5 questions (Door opening, consequences)
+- Scenes 85-87: 3 questions (The Locking)
+- Scenes 93-97: 5 questions (Frame climax)
+
+**Total Questions Mapped to Specific Scenes:** 35 of 60 (58%)
+
+*See `unresolved-threads.md` for full question tracking.*

@@ -52,3 +52,21 @@ Following Randy Ingermanson's criteria:
 - ✅ **Clear stakes:** Everything he loves, including himself
 
 This sentence could sell the book to a reader, an editor, or a bookstore browser in ten seconds.
+
+---
+
+## Questions Addressed
+
+This one-sentence summary directly addresses or implies resolution of these mysteries from our master tracking list:
+
+| Question ID | Mystery | How Addressed |
+|-------------|---------|---------------|
+| **Q001** | Why is Kvothe now "Kote"? | "destroys everything he loves—including himself" → implies self-destruction, becoming broken |
+| **Q002** | Which king did Kvothe kill? | "killing a king" → explicitly included in the core premise |
+| **Q004** | What are the Doors of Stone? | "forbidden door" → the central plot device driving catastrophe |
+| **Q007** | What is the Chandrian's true purpose? | "demons who murdered his family" → established as the enemy and motivation |
+| **Q009** | What caused the present-day war? | "unleashing a catastrophe" → the door opening triggers the war |
+
+**Questions Implied:** Q005 (obsessive hunt connects to Denna through love), Q008 (door access implies Lackless heritage)
+
+*See `unresolved-threads.md` for full question tracking.*

@@ -43,3 +43,32 @@ The novel ends not with resolution but with choice. Kvothe reaches for the chest
 ---
 
 *Word count: ~1,100 words*
+
+---
+
+## Questions Addressed
+
+This one-page synopsis addresses the following mysteries from our master tracking list:
+
+| Question ID | Mystery | How Addressed |
+|-------------|---------|---------------|
+| **Q001** | Why is Kvothe now "Kote"? | "speaks his own true name—not to call it, but to lock it away... becomes 'Kote'" |
+| **Q002** | Which king did Kvothe kill? | "King Roderic Calanthis dies by Kvothe's hand—not in malice but in manipulation" |
+| **Q003** | What's behind the four-plate door? | "the four-plate door in the Archives seems to call to him" (setup) |
+| **Q004** | What are the Doors of Stone? | "the location and key to the Doors of Stone... sealed since the Creation War" |
+| **Q005** | Who is Denna's patron? | "the identity of 'Master Ash'... is Cinder" |
+| **Q006** | What's in the thrice-locked chest? | "the thrice-locked chest containing the remnants of who he was" |
+| **Q007** | What is the Chandrian's purpose? | "Chandrian having positioned events" + manipulation theme |
+| **Q008** | Is Kvothe's mother Netalia Lackless? | "His mother was Netalia Lackless, which makes him heir" |
+| **Q009** | What caused the war? | "The war that follows is inevitable... Kvothe becomes the Kingkiller" |
+| **Q010** | Who/What is the Cthaeh? | "what the Cthaeh accomplished... Every choice calculated" |
+| **Q011** | Who/What are the Amyr? | "the Amyr never disbanded... Lorren is revealed as a member... antagonists" |
+| **Q012** | What is Kvothe's true name? | "Kvothe speaks his own true name" |
+| **Q013** | What is the Lackless Box? | Implied through "key to the Doors of Stone" |
+| **Q021** | Who is Iax/Jax? | "something older... locked away at the end of the Creation War. Iax—or what remains" |
+| **Q025** | Will Kvothe return? | "Kvothe must decide: remain Kote... or become himself again" |
+| **Q031** | What is Master Lorren's secret? | "Lorren—protector of knowledge... is one of them" |
+
+**Total Questions Addressed:** 16 (27% of all tracked mysteries)
+
+*See `unresolved-threads.md` for full question tracking.*

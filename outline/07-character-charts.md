@@ -242,3 +242,55 @@ The Amyr serve as unexpected antagonists—Kvothe has sought them as allies, onl
 ---
 
 *Total character charts: ~1,800 words*
+
+---
+
+## Questions Addressed
+
+This character charts document provides detailed profiles that address the following mysteries:
+
+### Kvothe's Chart
+| Question ID | Mystery | How Addressed |
+|-------------|---------|---------------|
+| **Q001** | Why Kvothe is "Kote" | Arc: "Locking away himself; becoming Kote" |
+| **Q008** | Mother is Lackless | "Laurian (Netalia Lackless)" explicitly in full name |
+| **Q012** | Kvothe's true name | "His full true name?" listed as key unknown; resolved through locking |
+
+### Denna's Chart
+| Question ID | Mystery | How Addressed |
+|-------------|---------|---------------|
+| **Q005** | Denna's patron | Conflict: "Her patron (Cinder) is manipulating her" |
+| **Q015** | Written magic | Skills: "Written Magic: Can weave yllish knots into music" |
+| **Q026** | What happened to Denna | Arc ending: "Ambiguous; wandering, living with consequences" |
+
+### Bast's Chart
+| Question ID | Mystery | How Addressed |
+|-------------|---------|---------------|
+| **Q016** | Bast's agenda | Motivation/Goal: "To restore his friend and teacher" + Secret: "He orchestrated Chronicler's arrival" |
+
+### Elodin's Chart
+| Question ID | Mystery | How Addressed |
+|-------------|---------|---------------|
+| **Q028** | Elodin's history | Secret: "He was once where Kvothe is; he barely survived" |
+
+### Cinder's Chart
+| Question ID | Mystery | How Addressed |
+|-------------|---------|---------------|
+| **Q005** | Patron identity | "Role: One of the seven Chandrian" + relationship to Denna |
+| **Q007** | Chandrian purpose | Motivation: "End the curse; rewrite history" |
+
+### The Amyr (Collective) Chart
+| Question ID | Mystery | How Addressed |
+|-------------|---------|---------------|
+| **Q011** | Who are the Amyr | Origin, Goal: "Contain something worse than the Chandrian" |
+| **Q031** | Lorren's secret | Members: "Include Master Lorren" |
+
+### Chronicler's Chart
+| Question ID | Mystery | How Addressed |
+|-------------|---------|---------------|
+| **Q023** | Three days significance | Frames the recording purpose |
+| **Q025** | Will Kvothe return | Epiphany about whether Kvothe should return |
+
+**Total Questions Addressed:** 12 unique mysteries through character details
+
+*See `unresolved-threads.md` for full question tracking.*
